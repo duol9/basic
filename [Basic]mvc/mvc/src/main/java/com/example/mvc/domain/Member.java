@@ -1,3 +1,4 @@
+/*
 package com.example.mvc.domain;
 
 public class Member {
@@ -35,3 +36,4 @@ public class Member {
         this.email = email;
     }
 }
+*/

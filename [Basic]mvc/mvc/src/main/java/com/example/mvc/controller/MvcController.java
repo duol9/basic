@@ -1,3 +1,4 @@
+/*
 package com.example.mvc.controller;
 
 import com.example.mvc.domain.Member;
@@ -43,3 +44,4 @@ public class MvcController {
         return "redirect:/members"; // view가 호출되지 않고 /members가 재호출됨
     }
 }
+*/

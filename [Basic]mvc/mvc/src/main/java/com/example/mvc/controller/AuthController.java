@@ -1,3 +1,4 @@
+/*
 package com.example.mvc.controller;
 
 import jakarta.servlet.http.Cookie;
@@ -38,10 +39,12 @@ public class AuthController {
             log.info("userID not found");
         }
 
-        /*log.info("debug1");
+        */
+/*log.info("debug1");
         // 서비스 로직1의 대한 로그
         log.info("debug2");
-        // 서비스 로직2의 대한 로그*/
+        // 서비스 로직2의 대한 로그*//*
+
         return "success";
     }
 
@@ -142,3 +145,4 @@ public class AuthController {
         return decodedToken;
     }
 }
+*/
